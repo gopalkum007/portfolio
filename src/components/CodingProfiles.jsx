@@ -22,7 +22,7 @@ export default function CodingProfiles() {
     {
       name: 'LeetCode',
       username: 'gopalku007',
-      desc: '300+ solved algorithmic problems covering Arrays, HashMaps, Trees, Graphs, and Dynamic Programming.',
+      desc: '100+ solved algorithmic problems covering Arrays, HashMaps,HashSet,String,Recursion,LinkedList....',
       url: 'https://leetcode.com/u/gopalkum007/',
       icon: <SiLeetcode />,
     },
